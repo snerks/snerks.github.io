@@ -38,6 +38,12 @@
 
 [![TicTacToe in Angular](/images/tictactoe-ng-01.300.png)](https://snerks.github.io/tictactoeng1/)
 
+### Blazor Apps
+
+[Blazor Sample](https://snerks.github.io/BlazorApp1/ "Blazor Sample")
+
+[![Blazor Sample](/images/blazor-app-01.300.png)](https://snerks.github.io/BlazorApp1/)
+
 ## Repositories
 
 ### React Apps
