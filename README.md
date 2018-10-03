@@ -7,6 +7,7 @@
 #### Games
 
 [Reversi](https://snerks.github.io/react-reversi-ts/ "Reversi")
+
 [![Reversi](/images/reversi.react.02.png)](https://snerks.github.io/react-reversi-ts/)
 
 [Space Game](https://snerks.github.io/asteroids-react-ts-01/ "Space Game")
