@@ -34,6 +34,18 @@
 
 ### Angular Apps
 
+#### List Management
+
+[Events Todo](https://snerks.github.io/recommended-shows-ng01/ "Recommended Shows")
+
+[![Events Todo](/images/recommended-shows-01.300.png)](https://snerks.github.io/recommended-shows-ng01/)
+
+[Tour of Heroes Sample](https://snerks.github.io/angular-tour-of-heroes/ "Tour of Heroes Sample")
+
+[![Tour of Heroes Sample](/images/ng-tour-of-heroes-01.300.png)](https://snerks.github.io/angular-tour-of-heroes/ "Tour of Heroes Sample")
+
+#### Games
+
 [TicTacToe in Angular](https://snerks.github.io/tictactoeng1/ "TicTacToe in Angular")
 
 [![TicTacToe in Angular](/images/tictactoe-ng-01.300.png)](https://snerks.github.io/tictactoeng1/)
