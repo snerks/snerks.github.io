@@ -20,7 +20,7 @@
 
 [Football Stats](https://snerks.github.io/football-stats-03/ "Football Stats")
 
-[![Football Stats](/images/football-stats-01.300.png)](https://snerks.github.io/football-stats-02/)
+[![Football Stats](/images/football-stats-01.300.png)](https://snerks.github.io/football-stats-03/)
 
 #### React Bootstrap
 
