@@ -4,6 +4,12 @@
 
 ### React Apps
 
+#### REST API Client
+
+[Exchange Rates](https://snerks.github.io/react-ts-exchange-rates/ "Exchange Rates")
+
+[![Exchange Rates](/images/react-ts-exchange-rates.300.png)](https://snerks.github.io/react-ts-exchange-rates/)
+
 #### List Management
 
 [Events Todo](https://snerks.github.io/recommended-shows-ts01/ "Recommended Shows")
