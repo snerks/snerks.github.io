@@ -42,7 +42,7 @@
 
 #### Games
 
-[Reversi](https://snerks.github.io/react-reversi-ts/ "Reversi")
+[Reversi](https://snerks.github.io/react-mui-reversi-ts/ "Reversi")
 
 [![Reversi](/images/reversi.react.02.300.png)](https://snerks.github.io/react-reversi-ts/)
 
