@@ -6,9 +6,9 @@
 
 #### REST API Client
 
-[Exchange Rates](https://snerks.github.io/react-ts-exchange-rates/ "Exchange Rates")
+[Food Standards Agency Ratings](https://snerks.github.io/fsa-ratings-ng/ "Food Standards Agency Ratings")
 
-[![Exchange Rates](/images/react-ts-exchange-rates.300.png)](https://snerks.github.io/react-ts-exchange-rates/)
+[![Food Standards Agency Ratings](/images/fsa-ratings-ng.300.png)](https://snerks.github.io/fsa-ratings-ng/)
 
 #### List Management
 
@@ -24,9 +24,9 @@
 
 #### Charts
 
-[Football Stats](https://snerks.github.io/football-stats-03/ "Football Stats")
+[Football Stats](https://snerks.github.io/footballstats-ts-app/ "Football Stats")
 
-[![Football Stats](/images/football-stats-01.300.png)](https://snerks.github.io/football-stats-03/)
+[![Football Stats](/images/football-stats-01.300.png)](https://snerks.github.io/footballstats-ts-app/)
 
 #### React Bootstrap
 
