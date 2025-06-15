@@ -2,11 +2,11 @@ import type { ProjectSummaryNarrative } from "./ProjectSummaryNarrative";
 
 export const projectSummaries: ProjectSummaryNarrative[] = [
   {
-    publishedUrl: "https://snerks.github.io/tab-player-app/",
-    imageUrl: "/images/tab-player-app.png",
-    title: "React Guitar Tab Player App",
-    description: "A Guitar Tab player",
-    technologies: ["React", "Material UI", "TypeScript", "Tone"],
+    publishedUrl: "https://snerks.github.io/sudoku-solver-app/",
+    imageUrl: "/images/sudoku-solver-app.png",
+    title: "Sudoku Solver App",
+    description: "A Sudoku Solver",
+    technologies: ["React", "Material UI", "TypeScript"],
   },
   {
     publishedUrl: "https://snerks.github.io/mui-recommended-gigs-01/",
@@ -23,7 +23,6 @@ export const projectSummaries: ProjectSummaryNarrative[] = [
       "TypeScript",
     ],
   },
-
   {
     publishedUrl: "https://snerks.github.io/hr-workflow-app/",
     imageUrl: "/images/hr-workflow-app.300.png",
@@ -36,6 +35,20 @@ export const projectSummaries: ProjectSummaryNarrative[] = [
       "TypeScript",
       "Material UI",
     ],
+  },
+  {
+    publishedUrl: "https://snerks.github.io/my-govuk-site/",
+    imageUrl: "/images/my-govuk-site.png",
+    title: "GDS Sample App",
+    description: "A Sample App, demonstrating UK Government design approaches",
+    technologies: ["GDS", "Astro", "GOV.UK", "React"],
+  },
+  {
+    publishedUrl: "https://snerks.github.io/tab-player-app/",
+    imageUrl: "/images/tab-player-app.png",
+    title: "React Guitar Tab Player App",
+    description: "A Guitar Tab player",
+    technologies: ["React", "Material UI", "TypeScript", "Tone"],
   },
   {
     publishedUrl: "https://snerks.github.io/reversi-ts-app/",
