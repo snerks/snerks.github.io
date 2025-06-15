@@ -9,21 +9,34 @@ interface ProjectSummaryProps {
 export function ProjectSummary(props: ProjectSummaryProps) {
     const { publishedUrl, title, description, imageUrl, technologies } = props;
 
-    // console.log("ProjectSummary : START");
+    const publishedUrlParts = publishedUrl.split("/");
+    // console.table(publishedUrlParts);
+    const repoName = publishedUrlParts[publishedUrlParts.length - 2];
+
+    console.log(`repoName : ${repoName}`);
 
     // console.log(`import.meta.env.BASE_URL = [${import.meta.env.BASE_URL}]`);
     const baseUrlPrefix = import.meta.env.BASE_URL === "/" ? "" : import.meta.env.BASE_URL;
     // console.log(`baseUrlPrefix = [${baseUrlPrefix}]`);
 
-    const imageUrlWithBase = imageUrl.startsWith("/") ? baseUrlPrefix + imageUrl : imageUrl;
-    // console.log(`imageUrlWithBase = [${imageUrlWithBase}]`);
+    const imageType = "jpeg";
+    // const imageUrlWithPerTypeFolder = imageUrl.replace("/images/", `/images/${imageType}/`)
+    // const imageUrlWithType = imageUrlWithPerTypeFolder.replace(".png", `.${imageType}`);
+    const imageUrlWithType = `/images/${imageType}/${repoName}.${imageType}`;
+
+    const imageUrlWithBase = imageUrl.startsWith("/") ? baseUrlPrefix + imageUrlWithType : imageUrlWithType;
+    console.log(`imageUrlWithBase =[${imageUrlWithBase}]`);
+
+    const imageUrlToUse = imageUrl.startsWith("http") ? imageUrl : imageUrlWithBase;
+
+    console.log(`imageUrlToUse = [${imageUrlToUse}]`);
 
     return (<article>
         <a
             href={publishedUrl || "#"}
             className="image"
         ><img
-                src={imageUrlWithBase}
+                src={imageUrlToUse}
                 alt="" /></a>
         <div className="inner">
             <h4>{title}</h4>

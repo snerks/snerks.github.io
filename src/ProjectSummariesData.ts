@@ -94,7 +94,8 @@ export const projectSummaries: ProjectSummaryNarrative[] = [
     ],
   },
   {
-    publishedUrl: "https://snerks.github.io/store-admin-panel/dashboard/",
+    // publishedUrl: "https://snerks.github.io/store-admin-panel/dashboard/",
+    publishedUrl: "https://snerks.github.io/store-admin-panel/",
     imageUrl: "/images/ng-dashboard.300.png",
     title: "Angular Dashboard System",
     description: "A sample dashboard system, with Material UI and ChartJS.",
