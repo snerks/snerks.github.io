@@ -37,32 +37,18 @@ export const projectSummaries: ProjectSummaryNarrative[] = [
     ],
   },
   {
+    publishedUrl: "https://snerks.github.io/footballstats-ts-app/",
+    imageUrl: "/images/football-stats-01.300.png",
+    title: "React Chart App",
+    description: "A responsive charting app, powered by ChartJs.",
+    technologies: ["React", "ChartJs", "TypeScript", "REST", "API"],
+  },
+  {
     publishedUrl: "https://snerks.github.io/my-govuk-site/",
     imageUrl: "/images/my-govuk-site.png",
     title: "GDS Sample App",
     description: "A Sample App, demonstrating UK Government design approaches",
     technologies: ["GDS", "Astro", "GOV.UK", "React"],
-  },
-  {
-    publishedUrl: "https://snerks.github.io/tab-player-app/",
-    imageUrl: "/images/tab-player-app.png",
-    title: "React Guitar Tab Player App",
-    description: "A Guitar Tab player",
-    technologies: ["React", "Material UI", "TypeScript", "Tone"],
-  },
-  {
-    publishedUrl: "https://snerks.github.io/reversi-ts-app/",
-    imageUrl: "/images/reversi-app-2025.300.png",
-    title: "React Reversi",
-    description: "A board game, with computer player.",
-    technologies: ["React 19", "TypeScript", "Vite"],
-  },
-  {
-    publishedUrl: "https://snerks.github.io/snooker-scorer-app/",
-    imageUrl: "/images/snooker-scorer-app.cropped.png",
-    title: "React Snooker Scoring App",
-    description: "Allows scoring for a snooker frame, in real time.",
-    technologies: ["React 19", "TypeScript", "Vite"],
   },
   {
     publishedUrl: "https://snerks.github.io/fsa-ratings-ng/",
@@ -79,6 +65,13 @@ export const projectSummaries: ProjectSummaryNarrative[] = [
     ],
   },
   {
+    publishedUrl: "https://snerks.github.io/reversi-ts-app/",
+    imageUrl: "/images/reversi-app-2025.300.png",
+    title: "React Reversi",
+    description: "A board game, with computer player.",
+    technologies: ["React 19", "TypeScript", "Vite"],
+  },
+  {
     publishedUrl: "https://snerks.github.io/fix-protocol-app/",
     imageUrl: "/images/fixprotocol.decoder.app.300.png",
     title: "React FIX Protocol Message Decoder",
@@ -87,11 +80,25 @@ export const projectSummaries: ProjectSummaryNarrative[] = [
     technologies: ["React 19", "Vite", "Material UI", "TypeScript"],
   },
   {
+    publishedUrl: "https://snerks.github.io/tab-player-app/",
+    imageUrl: "/images/tab-player-app.png",
+    title: "React Guitar Tab Player App",
+    description: "A Guitar Tab player",
+    technologies: ["React", "Material UI", "TypeScript", "Tone"],
+  },
+  {
     publishedUrl: "https://snerks.github.io/Copilot-Todo/",
     imageUrl: "/images/todo-app.300.png",
     title: "React Todo App",
     description: "A client app allowing users to manage daily tasks.",
     technologies: ["React 19", "Vite", "Material UI", "TypeScript"],
+  },
+  {
+    publishedUrl: "https://snerks.github.io/snooker-scorer-app/",
+    imageUrl: "/images/snooker-scorer-app.cropped.png",
+    title: "React Snooker Scoring App",
+    description: "Allows scoring for a snooker frame, in real time.",
+    technologies: ["React 19", "TypeScript", "Vite"],
   },
   {
     publishedUrl: "https://snerks.github.io/reactive-forms01/",
@@ -113,13 +120,6 @@ export const projectSummaries: ProjectSummaryNarrative[] = [
     title: "Angular Dashboard System",
     description: "A sample dashboard system, with Material UI and ChartJS.",
     technologies: ["Angular", "Material UI", "ChartJS", "TypeScript"],
-  },
-  {
-    publishedUrl: "https://snerks.github.io/footballstats-ts-app/",
-    imageUrl: "/images/football-stats-01.300.png",
-    title: "React Chart App",
-    description: "A responsive charting app, powered by ChartJs.",
-    technologies: ["React", "ChartJs", "TypeScript"],
   },
   {
     publishedUrl: "https://snerks.github.io/exchange-rate-app/",
