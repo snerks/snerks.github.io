@@ -44,6 +44,14 @@ export const projectSummaries: ProjectSummaryNarrative[] = [
     technologies: ["React", "ChartJs", "TypeScript", "REST", "API"],
   },
   {
+    publishedUrl: "https://snerks.github.io/trading-02/",
+    imageUrl: "/images/trading-02.png",
+    title: "React APEX Trading App",
+    description: "A Sample App, demonstrating APEX Trading Charts",
+    technologies: ["React", "Vite", "TypeScript", "Material UI", "APEX"],
+  },
+
+  {
     publishedUrl: "https://snerks.github.io/my-govuk-site/",
     imageUrl: "/images/my-govuk-site.png",
     title: "GDS Sample App",
